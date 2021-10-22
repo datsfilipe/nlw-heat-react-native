@@ -7,7 +7,7 @@ Nlw Heat - React Native App
 <hr>
 
 <p align="center">
-  <img src="./screenshot.jpg" height="450" />
+  <img src="./screenshot.jpg" height="500" />
 </p>
 
 <hr>
@@ -27,5 +27,5 @@ Notes: You might have expo installed.
 3. Also see the backend at `https://github.com/datsfilipe/nlw-heat-backend`
 4. Run the backend project with your github oauth app credentials.
 5. If you don't know how create github oauth app, see `https://docs.github.com/en/developers/apps/building-oauth-apps/creating-an-oauth-app`
-6. The address for homepage and redirect should be like: `https://auth.expo.io/@YOUR_USER_NAME/APP_NAME`, just modify the values in url.
+6. The address for homepage and redirect should be like: `https://auth.expo.io/@YOUR_EXPO_USER_NAME/APP_NAME`, just modify the values in url.
 7. Also, the api url have to be your ip address.
